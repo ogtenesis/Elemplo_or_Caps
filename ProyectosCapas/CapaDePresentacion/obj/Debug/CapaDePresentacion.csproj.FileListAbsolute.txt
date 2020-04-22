@@ -1,0 +1,30 @@
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeNegocio.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Form1.resources
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeNegocio.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Form1.resources
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb

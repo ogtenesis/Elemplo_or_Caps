@@ -1,0 +1,18 @@
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

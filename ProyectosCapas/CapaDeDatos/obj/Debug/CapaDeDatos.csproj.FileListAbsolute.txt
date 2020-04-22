@@ -1,0 +1,12 @@
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+D:\C#\Desarrollo2020\Proyecto Por Capas\ProyectosCapas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
